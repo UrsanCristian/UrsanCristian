@@ -1,13 +1,13 @@
 # Hi there, I'm Cristian 👋
 
 ## About Me
-- 🌱 I’m currently learning Python Backend-Development, NodeJS Backend-Development and React.
-- 👯 I’m looking for an opportunity to apply my skills and knowledge in an real working environment
+- 🌱 I’m currently learning Java & Spring.
+- 👯 I’m looking for interesting projects to work on.
 - 📫 Email: cristian.ursan99@gmail.com
 
 ## Technologies and Tools
-- **Languages:** Python, JavaScript
-- **Other:** Django, Express.js, PostgreSQL, MySQL, Bootstrap, PyGame, PyTest, Axios.
+- **Languages:** Python, JavaScript, Java.
+- **Other:** Django, SpringBoot, Express.js, PostgreSQL, MySQL, Bootstrap, PyGame, PyTest, Axios.
 - **Tools:** Git, Postman.
 
 ## Projects
